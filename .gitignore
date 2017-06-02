@@ -41,15 +41,6 @@ testem.log
 .DS_Store
 Thumbs.db
 /node_modules/
-src/app/recipes/recipe-edit/
-src/app/recipes/recipes-detail/
-src/app/recipes/recipes-list/
-src/app/recipes/recipes.component.css
-src/app/recipes/recipes.component.html
-src/app/recipes/recipes.component.ts
-src/app/recipes/select-recipe/
-src/app/shopping-list/shopping-edit/
-src/app/shopping-list/shopping-list.component.css
-src/app/shopping-list/shopping-list.component.html
-src/app/shopping-list/shopping-list.component.ts
+
 /.idea/
+
